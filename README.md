@@ -42,25 +42,16 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
 
 
 This is my first Microverse project.
@@ -68,50 +59,28 @@ which is about Hello Microverse.
 **[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-:Html
-:Css
+Html 
+Css
 ### Tech Stack <a name="tech-stack"></a>
-
 
 Client
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">JavaScript</a></li>
+    <li><a href="https://reactjs.org/">Html and CSS</a></li>
     
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Ruby</a></li>
-    
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">SQL Server</a></li>
-    
-  </ul>
-</details>
 
 <!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
+Features
 - **[Linters]**
 - **[Html]**
 - **[CSS]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -128,7 +97,7 @@ In order to run this project you need:
 To Install all the linters(Lighthouse, Webhint, Stylint), node.js
 <!--
 Example command:
-npm install -g @lhci/cli@0.7.x
+ npm install -g @lhci/cli@0.7.x
 ```sh
  gem install rails
 ```
@@ -153,7 +122,7 @@ Install this project with:
 npm
 <!--
 Example command:
-npm install --save-dev hint@6.x
+
 ```sh
   cd my-project
   gem install
@@ -175,7 +144,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-NO test
+npm install --save-dev hint@6.x
 <!--
 Example command:
 
@@ -184,82 +153,39 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Sulaiman ahmadi"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👥 Authors <a name="Sulaiman ahmadi"></a>
 
 - GitHub: [@sulaimanahmadi](https://github.com/sulaimanahmadi)
 - Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
 - LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
-👤 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Javascript]**
 - [ ] **[React]**
 - [ ] **[Bootstrap]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
 
 
 Work my first project as a Micronaut. Feeling amazed with starting Microverse.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my friends and family to have me back financialy and mentaly.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[How to start the project]**
 
@@ -269,11 +195,10 @@ I would like to thank my friends and family to have me back financialy and menta
 
   - [this project is use in Visual Studio Code]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+
+
 
 This project is [MIT](./LICENSE) licensed.
 
