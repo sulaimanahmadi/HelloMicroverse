@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -60,14 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-
+:Html
+:Css
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
@@ -201,22 +202,17 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Sulaiman ahmadi"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sulaimanahmadi](https://github.com/sulaimanahmadi)
+- Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
+- LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+👤 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
