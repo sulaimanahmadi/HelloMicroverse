@@ -62,8 +62,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
+This is my first Microverse project.
+which is about Hello Microverse.
 **[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -71,8 +72,8 @@ After you're finished please remove all the comments and instructions!
 :Css
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
+Client
 <details>
   <summary>Client</summary>
   <ul>
@@ -100,9 +101,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Linters]**
+- **[Html]**
+- **[CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,17 +121,18 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
+My code would be a piece of instruction for new developers.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
+To Install all the linters(Lighthouse, Webhint, Stylint), node.js
 <!--
 Example command:
-
+npm install -g @lhci/cli@0.7.x
 ```sh
  gem install rails
 ```
@@ -142,7 +144,7 @@ Clone this repository to your desired folder:
 
 <!--
 Example commands:
-
+git clone
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
@@ -152,10 +154,10 @@ Example commands:
 ### Install
 
 Install this project with:
-
+npm
 <!--
 Example command:
-
+npm install --save-dev hint@6.x
 ```sh
   cd my-project
   gem install
@@ -177,7 +179,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-
+NO test
 <!--
 Example command:
 
@@ -221,9 +223,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Javascript]**
+- [ ] **[React]**
+- [ ] **[Bootstrap]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,9 +243,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+Work my first project as a Micronaut. Feeling amazed with starting Microverse.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,7 +255,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my friends and family to have me back financialy and mentaly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -263,13 +265,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[How to start the project]**
 
-  - [Answer_1]
+  - [you should install the node.js and linters package]
 
-- **[Question_2]**
+- **[How to use the project]**
 
-  - [Answer_2]
+  - [this project is use in Visual Studio Code]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
